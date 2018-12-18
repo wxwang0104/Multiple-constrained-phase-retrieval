@@ -1,4 +1,4 @@
-# Multiple-constrained-phase-retrieval
+# Multiple-constrained-phase-retrieval summary
 This repository contains a demonstration of the solution to multiple constrained phase retrieval problem. 
 
 # Copyright
@@ -12,6 +12,7 @@ are permitted provided that the following conditions are met:
      notice, this list of conditions and the following disclaimer in
      the documentation and/or other materials provided with the distribution
 
+# Source code
 By running: 
 ```
 PM_design_stretching_PSF.m
